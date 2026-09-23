@@ -5,7 +5,7 @@
     "image": "",
     "email": "gradydillon22@gmail.com",
     "location": {
-      "city": "Vienna",
+      "city": "Manassas",
       "region": "VA"
     },
     "summary": "Data scientist and software engineer driven by passions in mathematics, data, statistics, programming, problem-solving, and learning. Aspires to collaborate with a dynamic team and continuously broaden expertise.",
@@ -27,7 +27,7 @@
       "name": "Applied Research Associates, Inc.",
       "position": "Staff Data Scientist I",
       "location": "Alexandria, VA",
-      "startDate": "2025-06-01",
+      "startDate": "2025-06-16",
       "endDate": "",
       "summary": "",
       "highlights": [
@@ -55,9 +55,9 @@
       "institution": "University of Virginia",
       "location": "Charlottesville, VA",
       "url": "",
-      "area": "Data Science",
-      "studyType": "M.S. (Online, Part-Time)",
-      "startDate": "2025-08-01",
+      "area": "School of Data Science",
+      "studyType": "M.S. Data Science (Online, Part-Time)",
+      "startDate": "2025-08-27",
       "endDate": "2027-05-01",
       "score": "",
       "courses": [],
@@ -67,11 +67,23 @@
       "institution": "Shenandoah University",
       "location": "Winchester, VA",
       "url": "",
-      "area": "Data Science with Applied Mathematics; Computer Science; Cybersecurity (Minor)",
-      "studyType": "B.S.",
+      "area": "",
+      "studyType": "B.S. Computer Science; Cybersecurity (Minor)",
       "startDate": "2021-08-01",
       "endDate": "2025-05-01",
-      "score": "",
+      "score": "3.8 GPA",
+      "courses": [],
+      "highlights": []
+    },
+    {
+      "institution": "Shenandoah University",
+      "location": "Winchester, VA",
+      "url": "",
+      "area": "",
+      "studyType": "B.S. Data Science with Applied Mathematics",
+      "startDate": "2021-08-01",
+      "endDate": "2025-05-01",
+      "score": "3.8 GPA",
       "courses": [],
       "highlights": []
     }

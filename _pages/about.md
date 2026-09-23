@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: Software &amp; quantitative projects.
+subtitle: Software & quantitative projects.
 
 profile:
   align: right
   image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Email is the best way to reach me.</p>
+    <p>I promise I'm friendlier than I look in this photo :)</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
