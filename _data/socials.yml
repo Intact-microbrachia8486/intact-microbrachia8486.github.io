@@ -3,5 +3,5 @@
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 email: gradydillon22@gmail.com # your email address
 github_username: gradill22 # your GitHub username
-linkedin_username: # TODO: your LinkedIn username (e.g. linkedin.com/in/<this>)
+# linkedin_username: your-handle # TODO: uncomment and set (the part after linkedin.com/in/) to show the LinkedIn icon
 rss_icon: true # comment this line to hide the RSS icon
